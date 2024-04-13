@@ -2,15 +2,10 @@
 
 A new Flutter project.
 
-## Getting Started
+#Home_screen & settings & My contact
 
-This project is a starting point for a Flutter application.
+![3](https://github.com/anas1ezz0/Whats_app_Ui/assets/115151453/05e6a34a-81a5-43a2-9aee-5d673b43a118)
 
-A few resources to get you started if this is your first Flutter project:
+#Chats settings [Light_mode]
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![4](https://github.com/anas1ezz0/Whats_app_Ui/assets/115151453/542b415c-2216-4fba-a6c5-d97fea845c2f)
